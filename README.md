@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahendran-k
+- 👋 Hi, I’m Mahendran-k
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning through python
 
